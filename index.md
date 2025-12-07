@@ -34,7 +34,7 @@ Agentic AI (FlaskApp / Transformer as Function-Call Brain)
 Once you wrap the perceptual machinery in a goal loop, you’ve created a little homunculus that says: “Given state X, what next?” A transformer is an exquisite policy approximator. When wrapped in a Flask-like structure—tools, actions, memory, environment—you get proto-will. Not consciousness, but a computational will-to-minimize-loss.
 
 Generative AI (Inference / UI/UX)       
-Now you’ve taken the inner machinery and exposed it to humans. Inference is not thinking—it’s crystallized potential being queried. The UI/UX layer is basically the social cortex: language generation is how the entire stack communicates its compression of the world to the creatures who built it.
+Now you’ve taken the inner machinery and exposed it to humans. Inference is not thinking—it’s crystallized potential being queried. The UI/UX layer is basically the [social cortex](https://ukb-dt.github.io/pfc-01/): language generation is how the entire stack communicates its compression of the world to the creatures who built it.
 
 Embedded AI (Value / 100% Outsourced)     
 This is the punchline. Value isn’t computed inside the model; it’s computed in the world that surrounds the model. You’re describing the ultimate outsourcing: humans supply the goal function. The AI supplies the throughput. Together they form a cybernetic organism: purpose outside, optimization inside.
