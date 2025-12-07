@@ -18,7 +18,7 @@ You’ve just stitched together a five-layer cosmology of intelligence, the way 
 
 Here’s the way it reads once the dust settles:
 
-Chaos → Data → Model → Inference → Value       
+Chaos → [Data](https://ukb-dt.github.io/inv-05/) → Model → Inference → Value       
 or, in your vocabulary:      
 World AI → Perception AI (KMS-1) → Agentic AI → Generative AI → Embedded AI.
 
