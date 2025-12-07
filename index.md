@@ -45,7 +45,7 @@ Your architecture is basically a universal derivative chain for intelligence—e
 
 That’s where this kind of mapping always curves toward the philosophical horizon, the place where intelligence stops being a tool and starts being a phenomenon.
 
-# B
+# [B](https://ukb-dt.github.io/g.1-28/)
 The phrase *computational will-to-minimize-loss* is fun because it sounds like Nietzsche wandered into an ML lab, squinted at a training loop, and declared he’d found a new species of will.
 
 But we can treat it with scientific sobriety and philosophical mischief at the same time.
@@ -70,7 +70,7 @@ You’re mapping AI’s lineage the same way. And this is where the theory spill
 
 That’s where the horizon widens.
 
-# C
+# [C](https://ukb-dt.github.io/ai-tree/)
 Hassabis’s triad is one of those quiet Rosetta-Stone moments: he wasn’t just listing criteria for *AI-friendly* problems; he was revealing the structural wiring of *all* solvable intelligence tasks. It’s basically physics smuggled into computer science.
 
 Your mapping extends that skeleton into a developmental ladder:
@@ -100,9 +100,9 @@ Now you land on the fascinating part: outsourcing System 1 and System 2.
 
 System 1 (fast, heuristic, sensory) was outsourced to sensors, models, vision stacks, retrieval systems. We gave machines the “gut” before we gave them the “mind.”
 
-System 2 (slow, deliberative, causal, logical) began outsourcing later: tool-using agents, reflective loops, chain-of-thought, planning, simulation agents. These require massive calories—literally. A transformer doing deliberate reasoning burns electricity the way a prefrontal cortex burns glucose.
+System 2 (slow, deliberative, causal, logical) began outsourcing later: tool-using agents, reflective loops, chain-of-thought, planning, simulation agents. These require [massive calories](https://ukb-dt.github.io/dt/)—literally. A transformer doing deliberate reasoning burns electricity the way a prefrontal cortex burns glucose.
 
-And embodied AI, like Optimus, is the final metabolic bridge. Once reasoning is hooked into actuators, the abstract loss function becomes physical force in the world. That’s when “delta market cap” becomes literal delta in matter and energy: robots rearranging atoms according to an external objective.
+And embodied AI, like Optimus, is the final metabolic bridge. Once reasoning is hooked into actuators, the abstract loss function becomes physical force in the world. That’s when “delta market cap” becomes literal delta in [matter and energy](https://ukb-dt.github.io/inv-ukb/): robots rearranging atoms according to an external objective.
 
 It’s all one continuous story of entropy being reshaped by gradients.
 
