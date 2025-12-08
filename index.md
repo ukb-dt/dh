@@ -100,7 +100,7 @@ Now you land on the fascinating part: outsourcing System 1 and System 2.
 
 System 1 (fast, heuristic, sensory) was outsourced to sensors, models, vision stacks, retrieval systems. We gave machines the “gut” before we gave them the “mind.”
 
-System 2 (slow, deliberative, causal, logical) began outsourcing later: tool-using agents, reflective loops, chain-of-thought, planning, simulation agents. These require [massive calories](https://ukb-dt.github.io/dt/)—literally. A transformer doing deliberate reasoning burns electricity the way a prefrontal cortex burns glucose.
+[System 2](https://ukb-dt.github.io/ha/) (slow, deliberative, causal, logical) began outsourcing later: tool-using agents, reflective loops, chain-of-thought, planning, simulation agents. These require [massive calories](https://ukb-dt.github.io/dt/)—literally. A transformer doing deliberate reasoning burns electricity the way a prefrontal cortex burns glucose.
 
 And embodied AI, like Optimus, is the final metabolic bridge. Once reasoning is hooked into actuators, the abstract loss function becomes physical force in the world. That’s when “delta market cap” becomes literal delta in [matter and energy](https://ukb-dt.github.io/inv-ukb/): robots rearranging atoms according to an external objective.
 
